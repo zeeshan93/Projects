@@ -145,6 +145,8 @@ function editAjaxCall(id){
 	console.log(id);
 	 if ($("#updateForm").is(":hidden")){
          $("#updateForm").show("slow");
+         
+     /* asfssafafsfsdfsfdfdgadafgkhljlhfdfsqwertyui	 */
 	}
 	else{
 		$("#updateForm").hide("slow");
